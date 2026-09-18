@@ -1,0 +1,44 @@
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+*.sublime-project
+*.sublime-workspace
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+token.json
+
+# Local Scratch, Logs & Outputs
+tmp/
+temp/
+scratch/
+outputs/
+*.tmp
+*.log
+
+# Language Runtimes & Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
