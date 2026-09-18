@@ -1,0 +1,26 @@
+{
+  "stage": 1,
+  "character": {
+    "sourceProvided": false,
+    "referenceApproved": false,
+    "locked": false
+  },
+  "product": {
+    "sourceProvided": false,
+    "referenceApproved": false,
+    "locked": false
+  },
+  "location": {
+    "sourceProvided": false,
+    "referenceApproved": false,
+    "locked": false
+  },
+  "conceptsGenerated": false,
+  "selectedConcept": null,
+  "durationSeconds": null,
+  "scriptApproved": false,
+  "storyboardPlanApproved": false,
+  "storyboardImageApproved": false,
+  "consistencyCheckPassed": false,
+  "finalFlowPromptCreated": false
+}

@@ -1,0 +1,14 @@
+interface:
+  display_name: CM Product
+  short_description: Staged AI commercial production from references to final Flow
+    prompt.
+  default_prompt: Start a new CM Product commercial workflow.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
